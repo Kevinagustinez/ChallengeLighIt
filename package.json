@@ -1,0 +1,23 @@
+{
+  "name": "challengelighit",
+  "version": "1.0.0",
+  "description": "QA Automation Challenge using Playwright for Light It",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinagustinez/ChallengeLighIt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kevinagustinez/ChallengeLighIt/issues"
+  },
+  "homepage": "https://github.com/Kevinagustinez/ChallengeLighIt#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2"
+  }
+}
