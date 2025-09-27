@@ -1,4 +1,4 @@
-# ChallengeLighIt - QA Automation Challenge
+# ChallengeLightIt - QA Automation Challenge
 
 This repository contains a UI test automation challenge for the Demoblaze website(https://www.demoblaze.com/), using Playwright with TypeScript.
 
